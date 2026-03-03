@@ -1,0 +1,14 @@
+google-generativeai
+elevenlabs
+SpeechRecognition
+pyaudio
+chromadb
+psutil
+python-dotenv
+pystray
+Pillow
+openai-whisper
+sounddevice
+numpy
+scipy
+pygame

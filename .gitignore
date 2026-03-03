@@ -1,0 +1,23 @@
+# Environments
+venv/
+.env
+
+# PyInstaller / Build Artifacts
+build/
+dist/
+*.spec
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.log
+
+# VS Code / IDE
+.vscode/
+.idea/
